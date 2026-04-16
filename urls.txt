@@ -1,1 +1,2 @@
-
+course://web.backend?name=%22Ivan%20Hermanovych%22&group=%22FEP-21с%22&subgroup=%22Підгрупа%201%22#ivanhermanovych
+https://bank.gov.ua/NBUStatService/v1/statdirectory/res?date=202202&json
